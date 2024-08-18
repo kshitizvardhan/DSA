@@ -17,3 +17,14 @@ int main(){
     SquarePattern(n);
     return 0;
 }
+
+/*
+
+Enter Number: 5
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+ */

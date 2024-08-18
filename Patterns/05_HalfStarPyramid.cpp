@@ -12,8 +12,24 @@ void HalfStarPyramidPattern(int n){
 
 int main(){
     int n;
-    cout << "Enter NUmber: ";
+    cout << "Enter Number: ";
     cin >> n;
     HalfStarPyramidPattern(n);
     return 0;
 }
+
+/*
+
+Enter Number: 10
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * * *
+* * * * * * *
+* * * * * * * *
+* * * * * * * * *
+* * * * * * * * * *
+
+ */

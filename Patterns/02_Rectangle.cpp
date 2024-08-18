@@ -18,12 +18,16 @@ int main(){
     return 0;
 }
 
-// Enter Number of rows and columns: 3 5
-// * * * * *
-// * * * * *
-// * * * * *
+/*
 
-// Enter Number of rows and columns: 3 8
-// * * * * * * * *
-// * * * * * * * *
-// * * * * * * * *
+Enter Number of rows and columns: 3 5
+* * * * *
+* * * * *
+* * * * *
+
+Enter Number of rows and columns: 3 8
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *
+
+ */

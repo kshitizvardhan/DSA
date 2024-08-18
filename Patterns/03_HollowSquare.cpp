@@ -21,3 +21,14 @@ int main(){
     HollowSquarePattern(n);
     return 0;
 }
+
+/*
+
+Enter Number: 5
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+
+ */

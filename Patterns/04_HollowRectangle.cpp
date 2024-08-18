@@ -21,3 +21,13 @@ int main(){
     HollowRectanglePattern(rows, cols);
     return 0;
 }
+
+/*
+
+Enter Number of rows and columns: 4 10
+* * * * * * * * * *
+*                 *
+*                 *
+* * * * * * * * * *
+
+ */

@@ -21,3 +21,19 @@ int main(){
     HollowInvertedHalfStarPyramidPattern(n);
     return 0;
 }
+
+/*
+
+Enter a Number: 10
+* * * * * * * * * *
+*               *
+*             *
+*           *
+*         *
+*       *
+*     *
+*   *
+* *
+*
+
+ */
